@@ -3,7 +3,7 @@
 Chainlink Cross-Chain Masterclass on 21 Auguest 2023
 
 walkthrough
-- Protocal Framework
+- Protocol Framework
 - Transfer Message
 - Transfer Token
 - Transfer Token & NFT
